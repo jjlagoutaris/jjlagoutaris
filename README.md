@@ -1,8 +1,8 @@
-- 👋 Hello!
+- 👋 Hello! <br>
 My name is John Lagoutaris, and I'm an aspiring Full-Stack Developer who is extremely enthusiastic about learning everything related to Web Development!
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... <br>
 Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, Movies, & more.
-- 🔧 Technologies & Tools
+- 🔧 Technologies & Tools <br>
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -130,6 +130,24 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Npm"
       />
       <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br /><strong>Webpack</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass/SCSS"
+      />
+      <br /><strong>Sass/SCSS</strong>
     </td>
 <!--     <td align="center" height="108" width="108">
       <img
