@@ -32,7 +32,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -40,8 +40,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="TypeScript"
       />
       <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -49,26 +49,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="React"
       />
       <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="48"
-        height="48"
-        alt="Redux"
-      />
-      <br /><strong>Redux</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -76,10 +58,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -87,8 +67,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
@@ -96,8 +76,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Express"
       />
       <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
@@ -105,8 +85,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
@@ -114,8 +94,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="PostgreSQL"
       />
       <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
         width="48"
@@ -123,7 +103,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Firebase"
       />
       <br /><strong>Firebase</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -142,7 +122,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
       />
       <br /><strong>Npm</strong>
     </td>
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
@@ -150,7 +130,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Jest"
       />
       <br /><strong>Jest</strong>
-    </td>
+    </td> -->
   </tr>
 </table>
 
