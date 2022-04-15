@@ -1,8 +1,9 @@
-- 👋 Hello! <br>
+<span style="text-decoration: underline;">👋 Hello! </span><br>
+
 My name is John Lagoutaris, and I'm an aspiring Full-Stack Developer who is extremely enthusiastic about learning everything related to Web Development!
-- 👀 I’m interested in ... <br>
+👀 I’m interested in ... <br>
 Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, Movies, & more.
-- 🔧 Technologies & Tools <br>
+🔧 Technologies & Tools <br>
 <table>
   <tr>
     <td align="center" height="108" width="108">
