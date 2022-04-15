@@ -35,6 +35,15 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
       />
       <br /><strong>JavaScript</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
 <!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
