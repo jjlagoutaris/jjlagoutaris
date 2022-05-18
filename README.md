@@ -161,7 +161,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
       />
       <br /><strong>Sass/SCSS</strong>
     </td>
-<!--     <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
@@ -169,7 +169,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Jest"
       />
       <br /><strong>Jest</strong>
-    </td> -->
+    </td>
   </tr>
 </table>
 
