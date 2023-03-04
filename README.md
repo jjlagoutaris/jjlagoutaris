@@ -184,4 +184,4 @@ You can click the Preview link to take a look at your changes.
 
 # 💼 My Portfolio
 
-https://jjlagoutaris.github.io/myWebsite/
+[https:](https://johnlagoutaris.netlify.app/)
