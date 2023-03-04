@@ -44,7 +44,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
       />
       <br /><strong>Python</strong>
     </td>
-<!--     <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -52,8 +52,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="TypeScript"
       />
       <br /><strong>TypeScript</strong>
-    </td> -->
-<!--     <td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -61,8 +61,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="React"
       />
       <br /><strong>React</strong>
-    </td> -->
-<!--     <td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -70,7 +70,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td> -->
+    </td>
 <!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
