@@ -71,7 +71,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
       />
       <br /><strong>Bootstrap</strong>
     </td>
-<!--     <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -79,8 +79,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
-    </td> -->
-<!--     <td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
@@ -88,8 +88,8 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="Express"
       />
       <br /><strong>Express</strong>
-    </td> -->
-<!--     <td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
@@ -97,7 +97,7 @@ Web Development, Machine Learning / AI, Board games, Rock Climbing, Basketball, 
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
-    </td> -->
+    </td>
 <!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
